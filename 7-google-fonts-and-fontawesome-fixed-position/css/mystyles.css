@@ -1,0 +1,11 @@
+p:nth-child(even) {
+    font-family: 'Cinzel', serif;
+}
+
+p:nth-child(odd) {
+    font-family: 'Dancing Script', cursive;
+}
+
+h1 {
+    font-family: 'Cinzel', serif;
+}
